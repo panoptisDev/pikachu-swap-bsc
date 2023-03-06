@@ -1,8 +1,8 @@
 {
-  "short_name": "PikachuSwap",
-  "name": "PikachuSwap",
-  "description": "Farm OVE with Pancake LP Tokens",
-  "homepage_url": "https://ovenswap.fi",
+  "short_name": "WhaleHarvest",
+  "name": "WhaleHarvest",
+  "description": "Farm LAKE with Whale LP Tokens",
+  "homepage_url": "https://whaleharvest.fi",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#1FC7D4",
