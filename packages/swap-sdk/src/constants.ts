@@ -23,17 +23,17 @@ export enum Rounding {
   ROUND_UP,
 }
 
-export const FACTORY_ADDRESS = '0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73'
+export const FACTORY_ADDRESS = '0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73'//
 
 // // TODO: ETH This is test version, do not depends on it
-const FACTORY_ADDRESS_ETH = '0xD93801d7D3a368D94A3A32E97A20f7aC1948a5dB'
+const FACTORY_ADDRESS_ETH = '0xD93801d7D3a368D94A3A32E97A20f7aC1948a5dB'//
 
 export const FACTORY_ADDRESS_MAP: Record<number, string> = {
   [ChainId.ETHEREUM]: FACTORY_ADDRESS_ETH,
   [ChainId.RINKEBY]: FACTORY_ADDRESS_ETH,
   [ChainId.GOERLI]: FACTORY_ADDRESS_ETH,
   [ChainId.BSC]: FACTORY_ADDRESS,
-  [ChainId.BSC_TESTNET]: '0x6725f303b657a9451d8ba641348b6761a6cc7a17',
+  [ChainId.BSC_TESTNET]: '0x6725f303b657a9451d8ba641348b6761a6cc7a17',// bsc testnet factory contract
 }
 export const INIT_CODE_HASH = '0x00fb7f630766e6a796048ea87d01acd3068e8ff67d078148a3fa3f4a84f69bd5'
 
@@ -43,7 +43,7 @@ export const INIT_CODE_HASH_MAP: Record<number, string> = {
   [ChainId.RINKEBY]: INIT_CODE_HASH_ETH,
   [ChainId.GOERLI]: INIT_CODE_HASH_ETH,
   [ChainId.BSC]: INIT_CODE_HASH,
-  [ChainId.BSC_TESTNET]: '0xd0d4c4cd0848c93cb4fd1f498d7013ee6bfb25783ea21593d5834f5d250ece66',
+  [ChainId.BSC_TESTNET]: '0xd0d4c4cd0848c93cb4fd1f498d7013ee6bfb25783ea21593d5834f5d250ece66',// bsc testnet init code hash
 }
 
 export const MINIMUM_LIQUIDITY = JSBI.BigInt(1000)
@@ -74,7 +74,7 @@ export const SOLIDITY_TYPE_MAXIMA = {
 export const WETH9 = {
   [ChainId.ETHEREUM]: new Token(
     ChainId.ETHEREUM,
-    '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2',
+    '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2',// WETH9 address
     18,
     'WETH',
     'Wrapped Ether',
@@ -90,7 +90,7 @@ export const WETH9 = {
   ),
   [ChainId.GOERLI]: new Token(
     ChainId.GOERLI,
-    '0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6',
+    '0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6', // WETH9 address
     18,
     'WETH',
     'Wrapped Ether',
@@ -109,7 +109,7 @@ export const WBNB = {
   ),
   [ChainId.BSC]: new Token(
     ChainId.BSC,
-    '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c',
+    '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c', // WBNB address
     18,
     'WBNB',
     'Wrapped BNB',
@@ -117,7 +117,7 @@ export const WBNB = {
   ),
   [ChainId.BSC_TESTNET]: new Token(
     ChainId.BSC_TESTNET,
-    '0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd',
+    '0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd', // testnet WBNB address
     18,
     'WBNB',
     'Wrapped BNB',

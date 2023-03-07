@@ -16,7 +16,7 @@ export const scaleVariants = {
   },
 };
 
-export const styleVariants = {
+export const styleVariants = { //white text button
   [variants.PRIMARY]: {
     backgroundColor: "primary",
     color: "white",

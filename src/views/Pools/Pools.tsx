@@ -317,10 +317,10 @@ const Pools: React.FC<React.PropsWithChildren> = ({ children }) => {
         <FarmFlexWrapper justifyContent="space-between">
           <Box>
             <FarmH1 as="h1" scale="xxl" color="secondary" mb="24px">
-              {t('Pools')}
+              {t('Whale Pools')}
             </FarmH1>
             <FarmH2 scale="lg" color="text">
-              {t('Looking for a less resource-intensive alternative to mining? Use your PIKACHU tokens to earn more tokens, for Free.')}
+              {t(' Join our pools and earn more Lake tokens.')}
             </FarmH2>
           </Box>
           
