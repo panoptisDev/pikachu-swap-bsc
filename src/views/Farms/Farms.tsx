@@ -317,7 +317,7 @@ const Farms: React.FC<React.PropsWithChildren> = ({ children }) => {
         <FarmFlexWrapper justifyContent="space-between">
           <Box>
             <FarmH1 as="h1" scale="xxl" color="secondary" mb="24px">
-              {t('PIKACHU Farms')}
+              {t('Whale Farms')}
             </FarmH1>
             <FarmH2 scale="lg" color="text">
               {t('Stake your LP tokens and start earning passive income with your cryptocurrency. We incentivize many liquidity pairs by offering our Liquidity Providers best farming opportunities.')}

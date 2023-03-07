@@ -63,7 +63,7 @@ const Menu = (props) => {
         footerLinks={getFooterLinks}
         activeItem={activeMenuItem?.href}
         activeSubItem={activeSubMenuItem?.href}
-        buyCakeLabel={t('Buy Pikachu')}
+        buyCakeLabel={t('Buy Lake Token')}
         {...props}
       />
       <ModalV2 isOpen={(activeSubMenuItem?.disabled || activeMenuItem?.disabled) && !chain?.unsupported}>
