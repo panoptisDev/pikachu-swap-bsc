@@ -21,7 +21,7 @@ const flyingAnim = () => keyframes`
     transform: translate(0, 0px);
   }
 `
-
+/*
 const fading = () => keyframes`
   from {
     opacity: 0.9;
@@ -33,7 +33,7 @@ const fading = () => keyframes`
     opacity: 0.9;
   }
 `
-
+*/
 const BgWrapper = styled.div`
   z-index: -1;
   overflow: hidden;
@@ -65,17 +65,17 @@ const StarsWrapper = styled.div`
   left: 0;
 
   & :nth-child(2) {
-    animation: ${fading} 2s ease-in-out infinite;
+    animation: ${flyingAnim} 2s ease-in-out infinite;
     animation-delay: 1s;
   }
 
   & :nth-child(3) {
-    animation: ${fading} 5s ease-in-out infinite;
+    animation: ${flyingAnim} 5s ease-in-out infinite;
     animation-delay: 0.66s;
   }
 
   & :nth-child(4) {
-    animation: ${fading} 2.5s ease-in-out infinite;
+    animation: ${flyingAnim} 2.5s ease-in-out infinite;
     animation-delay: 0.33s;
   }
 `
