@@ -138,12 +138,12 @@ const config: (t: ContextApi['t'], isDark: boolean, languageCode?: string, chain
       
           {
             label: t('twitter'),
-            href: 'https://twitter.com/pikachuutoken',
+            href: 'https://twitter.com/WhaleHarvest',
             type: DropdownMenuItemType.EXTERNAL_LINK,
           },
           {
             label: t('telegram'),
-            href: 'https://t.me/officialpikachucoin',
+            href: 'https://t.me/whaleharvest',
             type: DropdownMenuItemType.EXTERNAL_LINK,
           },
         ]

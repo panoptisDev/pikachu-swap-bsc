@@ -10,7 +10,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: TwitterIcon,
-    href: "https://twitter.com/pikachuutoken",
+    href: "https://twitter.com/WhaleHarvest",
   },
   {
     label: "Telegram",
@@ -18,7 +18,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/officialpikachucoin",
+        href: "https://t.me/whaleharvest",
       },
       
     ],
