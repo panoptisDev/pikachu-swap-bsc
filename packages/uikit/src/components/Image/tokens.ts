@@ -609,7 +609,7 @@ const tokens = {
     symbol: "BUSD",
     address: {
       56: "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
-      97: "",
+      97: "0x666fb439d93b14E42E86b7fe00ca7753996d7bC6",
     },
     decimals: 18,
     projectLink: "https://www.paxos.com/busd/",
@@ -681,7 +681,7 @@ const tokens = {
     symbol: "USDC",
     address: {
       56: "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
-      97: "",
+      97: "0x7fd0F203F630D5DE18F3Fa9d1Dcf5b646818b7A6",
     },
     decimals: 18,
     projectLink: "https://www.centre.io/usdc",
@@ -744,7 +744,7 @@ const tokens = {
     symbol: "USDT",
     address: {
       56: "0x55d398326f99059fF775485246999027B3197955",
-      97: "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+      97: "0x69283AcDB92fBF57C44D007996cFb0D9e3626ACd",
     },
     decimals: 18,
     projectLink: "https://tether.to/",
@@ -834,7 +834,7 @@ const tokens = {
     symbol: "BAKE",
     address: {
       56: "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
-      97: "",
+      97: "0x3B4df695EAa374911Fb4d179B91CD64db81d39b9",
     },
     decimals: 18,
     projectLink: "https://www.bakeryswap.org/",

@@ -29,7 +29,7 @@ const USDC_BSC = new Token(
 
 const USDC_TESTNET = new Token(
   ChainId.BSC_TESTNET,
-  '0x64544969ed7EBf5f083679233325356EbE738930',
+  '0x7fd0F203F630D5DE18F3Fa9d1Dcf5b646818b7A6',
   18,
   'USDC',
   'Binance-Peg USD Coin',
@@ -100,7 +100,7 @@ const BUSD_MAINNET = new Token(
 
 const BUSD_TESTNET = new Token(
   ChainId.BSC_TESTNET,
-  '0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee',
+  '0x666fb439d93b14E42E86b7fe00ca7753996d7bC6',
   18,
   'BUSD',
   'Binance USD',
