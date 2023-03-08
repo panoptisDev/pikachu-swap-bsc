@@ -8,7 +8,7 @@ export default {
     56: '0xE4D51A173AF2615a5D12149294Abdca5C17ea4a2',
   },
   sousChef: {
-    97: '0x79de3D49C544d3f3dd096e81C26dA329992FfaED',
+    97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
     56: '0x6ab8463a4185b80905e05a9ff80a2d6b714b9e95',
   },
   lotteryV2: {
@@ -72,7 +72,7 @@ export default {
   },
   cakeVault: {
     56: '0x1B87798F41b8c2e01Eb3666a8816CB79833334F2',
-    97: '0x1e4463DF650164f94faFfD9fb7aD396EC55745e1',
+    97: '0x1B87798F41b8c2e01Eb3666a8816CB79833334F2',
   },
   cakeFlexibleSideVault: {
     56: '0x615e896A8C2CA8470A2e9dc2E9552998f8658Ea0',

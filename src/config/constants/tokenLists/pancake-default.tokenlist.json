@@ -59,6 +59,14 @@
       "logoURI": "https://pancakeswap.finance/images/tokens/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
     },
     {
+      "name": "OvenSwap Token",
+      "symbol": "OVE",
+      "address": "0x0d5556E58862A21db65B4Aa180da231cfE6140fE",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://ovenswap.fi/images/tokens/0x0d5556E58862A21db65B4Aa180da231cfE6140fE.png"
+    },
+    {
       "name": "PikachuSwap Token",
       "symbol": "PIKACHU",
       "address": "0x6673a335A4E9c46bC08035E656aA09f5a929Ef27",
