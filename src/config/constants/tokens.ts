@@ -11,11 +11,11 @@ const CAKE_MAINNET = new Token(
 
 const CAKE_TESTNET = new Token(
   ChainId.BSC_TESTNET,
-  '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+  '0x95963AF52b346dDB68A4D0742C86f451D3fe92A1',
   18,
-  'CAKE',
-  'PancakeSwap Token',
-  'https://ovenswap.fi/',
+  'LAKE',
+  'WhaleHarvest Token',
+  'https://whaleharvest.fi/',
 )
 
 const USDC_BSC = new Token(

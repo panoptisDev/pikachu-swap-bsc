@@ -59,14 +59,6 @@
       "logoURI": "https://pancakeswap.finance/images/tokens/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
     },
     {
-      "name": "OvenSwap Token",
-      "symbol": "OVE",
-      "address": "0x0d5556E58862A21db65B4Aa180da231cfE6140fE",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://ovenswap.fi/images/tokens/0x0d5556E58862A21db65B4Aa180da231cfE6140fE.png"
-    },
-    {
       "name": "PikachuSwap Token",
       "symbol": "PIKACHU",
       "address": "0x6673a335A4E9c46bC08035E656aA09f5a929Ef27",
@@ -74,7 +66,6 @@
       "decimals": 18,
       "logoURI": "https://pikachuswap.finance/images/tokens/0x6673a335A4E9c46bC08035E656aA09f5a929Ef27.png"
     },
-
     {
       "name": "Venus",
       "symbol": "XVS",
@@ -242,6 +233,14 @@
       "chainId": 97,
       "decimals": 18,
       "logoURI": "https://ovenswap.fi/images/tokens/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
+    },
+    {
+      "name": "Lake Token",
+      "symbol": "LAKE",
+      "address": "0x95963AF52b346dDB68A4D0742C86f451D3fe92A1",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://panoptisdev.github.io/whaleharvest.github.io/0x95963AF52b346dDB68A4D0742C86f451D3fe92A1.png"
     }
   ]
 }

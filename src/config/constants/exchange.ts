@@ -7,8 +7,8 @@ export const ROUTER_ADDRESS: ChainMap<string> = {
   [ChainId.ETHEREUM]: '0x3BC722f252C7bAE2f55647e49aDcB9d33Ff6eBcC',
   [ChainId.RINKEBY]: '0x3BC722f252C7bAE2f55647e49aDcB9d33Ff6eBcC',
   [ChainId.GOERLI]: '0x3BC722f252C7bAE2f55647e49aDcB9d33Ff6eBcC',
-  [ChainId.BSC]: '0x10ED43C718714eb63d5aA57B78B54704E256024E',
-  [ChainId.BSC_TESTNET]: '0xD99D1c33F9fC3444f8101754aBC46c52416550D1',
+  [ChainId.BSC]: '0x10ED43C718714eb63d5aA57B78B54704E256024E',// mainnet router
+  [ChainId.BSC_TESTNET]: '0x0e5ECf9455dc84Ee9d77843C567826bcEA945EeF',// whale router
 }
 
 // used to construct intermediary pairs for trading

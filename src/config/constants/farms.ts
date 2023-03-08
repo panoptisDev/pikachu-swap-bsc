@@ -13,9 +13,9 @@ const farms: SerializedFarmConfig[] = [
   {
     pid: 0,
     v1pid: 0,
-    lpSymbol: 'PIKACHU',
+    lpSymbol: 'LAKE',
     lpAddresses: {
-      97: '0x6673a335A4E9c46bC08035E656aA09f5a929Ef27',
+      97: '0x95963AF52b346dDB68A4D0742C86f451D3fe92A1',
       56: '0x6673a335A4E9c46bC08035E656aA09f5a929Ef27',
     },
     token: serializedTokens.pikachu,
@@ -72,7 +72,7 @@ const farms: SerializedFarmConfig[] = [
     v1pid: 5,
     lpSymbol: 'WBNB',
     lpAddresses: {
-      97: '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c',
+      97: '0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd',
       56: '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c',
     },
     token: serializedTokens.wbnb,
@@ -83,7 +83,7 @@ const farms: SerializedFarmConfig[] = [
     v1pid: 6,
     lpSymbol: 'BUSD',
     lpAddresses: {
-      97: '0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56',
+      97: '0x666fb439d93b14E42E86b7fe00ca7753996d7bC6',
       56: '0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56',
     },
     token: serializedTokens.busd,
@@ -94,7 +94,7 @@ const farms: SerializedFarmConfig[] = [
     v1pid: 7,
     lpSymbol: 'USDT',
     lpAddresses: {
-      97: '0x55d398326f99059fF775485246999027B3197955',
+      97: '0x69283AcDB92fBF57C44D007996cFb0D9e3626ACd',
       56: '0x55d398326f99059fF775485246999027B3197955',
     },
     token: serializedTokens.usdt,
