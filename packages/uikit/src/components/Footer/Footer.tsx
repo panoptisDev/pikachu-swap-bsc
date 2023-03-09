@@ -76,7 +76,7 @@ const MenuItem: React.FC<React.PropsWithChildren<FooterProps>> = ({
           justifyContent="space-between"
         >
           <Flex order={[2, null, 1]} alignItems="center">
-            
+            <ThemeSwitcher isDark={isDark} toggleTheme={toggleTheme} />
             <LangSelector
               currentLang={currentLang}
               langs={langs}
@@ -91,7 +91,7 @@ const MenuItem: React.FC<React.PropsWithChildren<FooterProps>> = ({
             </Box>
             <Button
               as="a"
-              href="https://pikachuswap.finance/swap?outputCurrency=0x6673a335A4E9c46bC08035E656aA09f5a929Ef27&chainId=56"
+              href="https://ovenswap.fi/swap?outputCurrency=0x0d5556E58862A21db65B4Aa180da231cfE6140fE&chainId=56"
               target="_blank"
               scale="sm"
               endIcon={<ArrowForwardIcon color={lightColors.backgroundAlt} />}

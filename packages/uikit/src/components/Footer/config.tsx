@@ -22,18 +22,12 @@ export const socials = [
       },
       
     ],
-  },
+  },/*
    {
     label: "Medium",
     icon: MediumIcon,
     href: "https://medium.com/@pikachu.supp",
-  },
-   {
-    label: "Github",
-    icon: GithubIcon,
-    href: "https://github.com/cyberscope-io/audits/blob/main/1-pikachu/audit.pdf",
-  },
-
+  },*/
   {
     label: "Github",
     icon: GithubIcon,

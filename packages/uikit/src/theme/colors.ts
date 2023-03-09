@@ -51,7 +51,7 @@ export const lightColors: Colors = {
 export const darkColors: Colors = {
   ...baseColors,
   ...additionalColors,
-  secondary: "#b19e03",//yellow
+  secondary: "#ab00fb",//yellow text in darkmode/e500b9/#ab00fb
   background: "#08060B",//darkgray
   backgroundDisabled: "#3c3742",//darkgray
   backgroundAlt: "#000",//black
